@@ -1,0 +1,19 @@
+.container{
+    padding-top:30px;
+    width:500px;
+}
+.box{
+    vertical-align: middle;
+    justify-content: center;
+   
+}
+.tasks{
+    border-radius: 30px;
+    background-color:white;
+    text-align: center;
+    height:35px; 
+    color:white;
+    box-shadow: 2px 2px 30px 8px #5D3587;
+    font-size: 22px;
+    cursor:pointer;
+ }
